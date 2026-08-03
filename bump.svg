@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.49968879"
-     inkscape:cx="388.24165"
-     inkscape:cy="41.025535"
+     inkscape:cx="429.26718"
+     inkscape:cy="299.18622"
      inkscape:window-width="1366"
      inkscape:window-height="745"
      inkscape:window-x="-8"
@@ -249,39 +249,39 @@
         <g
            id="labels">
           <text
-             x="286.92577822748643"
-             y="150.86254492331665"
+             x="259.51196"
+             y="180.20335"
              text-anchor="middle"
              alignment-baseline="middle"
-             style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+             style="font-weight:bold;font-size:33.1093px;font-family:Arial, sans-serif;fill:#f7f7f7;fill-opacity:1;stroke-width:3.31093"
              id="text18">Tape</text>
           <text
-             x="497.379917862032"
-             y="122.918760458725"
+             x="519.41589"
+             y="169.65459"
              text-anchor="middle"
              alignment-baseline="middle"
-             style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+             style="font-weight:bold;font-size:94.4345px;font-family:Arial, sans-serif;fill:#f7f7f7;fill-opacity:1;stroke-width:9.44345"
              id="text19">Disc</text>
           <text
-             x="686.63593"
-             y="232.0137"
+             x="683.09772"
+             y="232.89642"
              text-anchor="middle"
              alignment-baseline="middle"
-             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             style="font-weight:bold;font-size:18.1919px;font-family:Arial, sans-serif;fill:#444444;fill-opacity:1;stroke-width:1.81919"
              id="text20">Download</text>
           <text
-             x="877.49841"
-             y="193.96735"
+             x="878.75299"
+             y="193.91479"
              text-anchor="end"
              alignment-baseline="middle"
-             style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+             style="font-weight:bold;font-size:15.5968px;font-family:Arial, sans-serif;fill:#f7f7f7;fill-opacity:1;stroke-width:1.55968"
              id="text22">Streaming</text>
           <text
-             x="95.64192607582882"
-             y="141.56312054833333"
+             x="90.786308"
+             y="184.42545"
              text-anchor="middle"
              alignment-baseline="middle"
-             style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+             style="font-weight:bold;font-size:53.6222px;font-family:Arial, sans-serif;fill:#f7f7f7;fill-opacity:1;stroke-width:5.36222"
              id="text23">Vinyl</text>
         </g>
       </g>
